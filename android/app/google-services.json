@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "365546454911",
+    "project_id": "delivevryyfood",
+    "storage_bucket": "delivevryyfood.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365546454911:android:a70aeb0b951d2b3ee5e44a",
+        "android_client_info": {
+          "package_name": "com.example.deliveryfoodapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365546454911-mr23m7n6n61tae274mt063gks5mgdg3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChoNrKW9bm3Jap0Ds-arMtBeVq4k7d0pM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365546454911-mr23m7n6n61tae274mt063gks5mgdg3v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365546454911:android:cbb04dcf0b94b32fe5e44a",
+        "android_client_info": {
+          "package_name": "com.example.delveryyyfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365546454911-s1r50filu289o5sc7n0ntg9cok2sgchj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.delveryyyfood",
+            "certificate_hash": "3c7f91c6b6838defa8368b75636ad13d1acafc94"
+          }
+        },
+        {
+          "client_id": "365546454911-mr23m7n6n61tae274mt063gks5mgdg3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChoNrKW9bm3Jap0Ds-arMtBeVq4k7d0pM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365546454911-mr23m7n6n61tae274mt063gks5mgdg3v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
